@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 class square():
-   """Class representing a square."""
+    """Class representing a square."""
     width = 0
     height = 0
 
